@@ -23,3 +23,15 @@ npm install child_process
 npm install express
 apt install npm
 ```
+
+```bash
+git clone https://github.com/subhamgurjar/CelestiaPFB_UI.git
+``` 
+
+```bash
+cd CelestiaPFB_UI
+```
+
+```
+node main.js
+```
